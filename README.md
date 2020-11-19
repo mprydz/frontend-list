@@ -20,6 +20,7 @@
 - [React Select](https://react-select.com/home) - select input
 - [React Modal](http://reactcommunity.org/react-modal/) - modal
 - [React Double Marquee](https://www.npmjs.com/package/react-double-marquee) - simple marquee
+- [Drift Zoom](https://github.com/imgix/drift) - image zoom on hover
 
 ### CSS
 - [Classnames](https://github.com/JedWatson/classnames) - conditional classes
