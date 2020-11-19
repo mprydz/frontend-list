@@ -2,9 +2,13 @@
 > Little curated list of useful packages and things
 
 ### Animation
-- [Animate.css](https://github.com/animate-css/animate.css)
-- [Animate On Scroll](https://github.com/michalsnik/aos)
+- [Animate.css](https://animate.style/)
+- [React Transition Group](http://reactcommunity.org/react-transition-group/css-transition)
+- [Skrollr](https://prinzhorn.github.io/skrollr/)
+- [React Spring](https://www.react-spring.io/docs/props/parallax)
+- [Animate On Scroll](http://michalsnik.github.io/aos/)
 - [Motion](https://www.framer.com/api/motion/animation/)
+- [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)
 
 ### CMS
 - [Keystone](https://www.keystonejs.com/)
@@ -12,17 +16,25 @@
 
 ### Components
 - [Slick](https://github.com/kenwheeler/slick/) - carousel
+- [React Select](https://react-select.com/home) - select input
 
 ### CSS
-- [Classnames](https://github.com/JedWatson/classnames)
+- [Classnames](https://github.com/JedWatson/classnames) - conditional classes
+- [Normalize.css](https://github.com/necolas/normalize.css/) - cross-browser consistency
 
 ### Layout
 - [Gridlex](https://gridlex.devlint.fr/)
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Frameworks
 - [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 - [UIkit](https://getuikit.com/docs/introduction)
+- [Material UI](https://material-ui.com/) - React
+- [Skeleton](http://getskeleton.com/)
 
 ### React
 - [Prop-types](https://github.com/facebook/prop-types)
 
+### Shopify
+- [Cart.js](https://cartjs.org/)
+- [Airfields](https://www.airfields.io/) - metafields
