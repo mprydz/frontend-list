@@ -4,6 +4,7 @@
 
 ### Animation
 - [Animate.css](https://animate.style/)
+- [Mela](https://github.com/estrattonbailey/mela) - barebones
 - [React Transition Group](http://reactcommunity.org/react-transition-group/css-transition)
 - [Skrollr](https://prinzhorn.github.io/skrollr/)
 - [React Spring](https://www.react-spring.io/docs/props/parallax)
