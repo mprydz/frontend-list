@@ -33,7 +33,7 @@
 ### Frameworks
 - [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 - [UIkit](https://getuikit.com/docs/introduction)
-- [Material UI](https://material-ui.com/) - react
+- [Material UI](https://material-ui.com/) (react)
 - [Skeleton](http://getskeleton.com/)
 
 ### React
