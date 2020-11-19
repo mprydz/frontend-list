@@ -18,10 +18,13 @@
 ### Components
 - [Slick](https://github.com/kenwheeler/slick/) - carousel
 - [React Select](https://react-select.com/home) - select input
+- [React Modal](http://reactcommunity.org/react-modal/) - modal
+- [React Double Marquee](https://www.npmjs.com/package/react-double-marquee) - simple marquee
 
 ### CSS
 - [Classnames](https://github.com/JedWatson/classnames) - conditional classes
 - [Normalize.css](https://github.com/necolas/normalize.css/) - cross-browser consistency
+- [CSS Grid Guides](https://www.npmjs.com/package/css-grid-guides) - development aid
 
 ### Layout
 - [Gridlex](https://gridlex.devlint.fr/)
