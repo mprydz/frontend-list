@@ -2,6 +2,9 @@
 > Little curated list of useful packages and things
 
 
+### Accessibility
+- [a11y](https://www.a11yproject.com/resources/#development-tools)
+
 ### Animation
 - [Animate.css](https://animate.style/)
 - [Mela](https://github.com/estrattonbailey/mela) - barebones
@@ -27,6 +30,7 @@
 - [Classnames](https://github.com/JedWatson/classnames) - conditional classes
 - [Normalize.css](https://github.com/necolas/normalize.css/) - cross-browser consistency
 - [CSS Grid Guides](https://www.npmjs.com/package/css-grid-guides) - development aid
+- [Clippy](https://bennettfeely.com/clippy/) - css clip-path
 
 ### Layout
 - [Gridlex](https://gridlex.devlint.fr/)
@@ -37,6 +41,7 @@
 - [UIkit](https://getuikit.com/docs/introduction)
 - [Material UI](https://material-ui.com/) (react)
 - [Skeleton](http://getskeleton.com/)
+- [Tailwind](https://tailwindcss.com/) - utilities
 
 ### React
 - [Prop-types](https://github.com/facebook/prop-types)
