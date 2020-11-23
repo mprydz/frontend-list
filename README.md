@@ -25,6 +25,7 @@
 - [React Modal](http://reactcommunity.org/react-modal/) - modal
 - [React Double Marquee](https://www.npmjs.com/package/react-double-marquee) - simple marquee
 - [Drift Zoom](https://github.com/imgix/drift) - image zoom on hover
+- [Fuse](https://fusejs.io/) - lightweight search library
 
 ### CSS
 - [Classnames](https://github.com/JedWatson/classnames) - conditional classes
