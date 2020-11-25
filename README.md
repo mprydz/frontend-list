@@ -53,3 +53,4 @@
 
 ### Other
 - [Octopus.do](https://octopus.do/) - visual sitemap builder
+- [What Font Is](https://www.whatfontis.com/) - font finder
