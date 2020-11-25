@@ -50,3 +50,6 @@
 ### Shopify
 - [Cart.js](https://cartjs.org/)
 - [Airfields](https://www.airfields.io/) - metafields
+
+### Other
+- [Octopus.do](https://octopus.do/) - visual sitemap builder
