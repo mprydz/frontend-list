@@ -24,7 +24,7 @@
 - [Slick](https://github.com/kenwheeler/slick/) - carousel
 - [React Select](https://react-select.com/home) - select input
 - [React Modal](http://reactcommunity.org/react-modal/) - modal
-- [React Double Marquee](https://www.npmjs.com/package/react-double-marquee) - simple marquee
+- [React Marquee](https://www.npmjs.com/package/react-fast-marquee) - flexible marquee (uses css animations)
 - [Drift Zoom](https://github.com/imgix/drift) - image zoom on hover
 - [Fuse](https://fusejs.io/) - lightweight search library
 
