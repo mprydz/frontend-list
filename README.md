@@ -15,7 +15,8 @@
 - [Animate On Scroll](http://michalsnik.github.io/aos/)
 - [Motion](https://www.framer.com/api/motion/animation/)
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)
-- [React Motion Animate](https://www.npmjs.com/package/react-motion-animate) - ua5
+- [React Motion Animate](https://www.npmjs.com/package/react-motion-animate) - simple/ua5
+- [React Scroll Parallax](https://www.npmjs.com/package/react-scroll-parallax)
 
 ### CMS
 - [Keystone](https://www.keystonejs.com/)
