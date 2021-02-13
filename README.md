@@ -39,6 +39,7 @@
 ### Layout
 - [Gridlex](https://gridlex.devlint.fr/)
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Grid Guides](https://github.com/UseAllFive/css-grid-guides) - use with CSS grids
 
 ### Frameworks
 - [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
