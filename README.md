@@ -50,6 +50,7 @@
 
 ### React
 - [Prop-types](https://github.com/facebook/prop-types)
+- [Storybook](https://storybook.js.org/) - component preview
 
 ### Shopify
 - [Cart.js](https://cartjs.org/)
