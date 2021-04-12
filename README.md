@@ -8,6 +8,7 @@
 
 ### Animation
 - [Animate.css](https://animate.style/)
+- [Confetti](https://www.kirilv.com/canvas-confetti/)
 - [Mela](https://github.com/estrattonbailey/mela) - barebones
 - [React Transition Group](http://reactcommunity.org/react-transition-group/css-transition)
 - [Skrollr](https://prinzhorn.github.io/skrollr/)
