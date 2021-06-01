@@ -62,4 +62,4 @@
 ### Other
 - [Octopus.do](https://octopus.do/) - visual sitemap builder
 - [What Font Is](https://www.whatfontis.com/) - font finder
-- [Google Cal link creator](https://github.com/AnandChowdhary/calendar-link)
+- [Google Cal link creator](https://www.npmjs.com/package/google-calendar-url)
