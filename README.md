@@ -63,4 +63,4 @@
 - [Octopus.do](https://octopus.do/) - visual sitemap builder
 - [What Font Is](https://www.whatfontis.com/) - font finder
 - [Google Cal link creator](https://www.npmjs.com/package/google-calendar-url)
-- [Ellipsis cutoff](https://www.npmjs.com/package/react-lines-ellipsis)
+- [Ellipsis cutoff](https://www.npmjs.com/package/chop-lines)
