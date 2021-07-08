@@ -54,6 +54,7 @@
 - [Prop-types](https://github.com/facebook/prop-types)
 - [Storybook](https://storybook.js.org/) - component preview
 - [Skeleton](https://www.npmjs.com/package/react-loading-skeleton) - component loading w animation
+- [Stickup](https://github.com/garthenweb/react-stickup) - stick to top when scrolled to
 
 ### Shopify
 - [Cart.js](https://cartjs.org/)
