@@ -69,5 +69,7 @@
 ---
 ## CSS tricks
 **backdrop-filter** add blur/other graphic effects to all elements behind
+
 **filter** add drop-shadow to svg/elements and other graphic effects
+
 **display: table** to fit child content into absolute positioned parent
