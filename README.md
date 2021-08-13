@@ -65,3 +65,9 @@
 - [What Font Is](https://www.whatfontis.com/) - font finder
 - [Google Cal link creator](https://www.npmjs.com/package/google-calendar-url)
 - [Ellipsis cutoff](https://www.npmjs.com/package/chop-lines)
+
+---
+## CSS tricks
+**backdrop-filter** add blur/other graphic effects to all elements behind
+**filter** add drop-shadow to svg/elements and other graphic effects
+**display: table** to fit child content into absolute positioned parent
