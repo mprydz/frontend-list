@@ -31,6 +31,9 @@
 - [React Marquee](https://www.npmjs.com/package/react-fast-marquee) - flexible marquee (uses css animations)
 - [Drift Zoom](https://github.com/imgix/drift) - image zoom on hover
 - [Fuse](https://fusejs.io/) - lightweight search library
+- [Geist] (https://geist-ui.dev/en-us/components/text) - UI library 1.7mb
+- [Material UI](https://material-ui.com/) UI library (react) 60mb
+- [UIkit](https://getuikit.com/docs/introduction) UI library 349kb
 
 ### CSS
 - [Classnames](https://github.com/JedWatson/classnames) - conditional classes
@@ -45,8 +48,6 @@
 
 ### Frameworks
 - [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-- [UIkit](https://getuikit.com/docs/introduction)
-- [Material UI](https://material-ui.com/) (react)
 - [Skeleton](http://getskeleton.com/)
 - [Tailwind](https://tailwindcss.com/) - utilities
 
