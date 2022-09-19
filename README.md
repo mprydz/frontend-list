@@ -19,6 +19,7 @@
 - [React Motion Animate](https://www.npmjs.com/package/react-motion-animate) - simple/ua5
 - [React Scroll Parallax](https://www.npmjs.com/package/react-scroll-parallax)
 - [JS Scroll Position Hook](https://dev.to/n8tb1t/tracking-scroll-position-with-react-hooks-3bbj) - for on scroll animations
+- [Smooth Scrolling Animations](https://github.com/studio-freight/lenis)
 
 ### CMS
 - [Keystone](https://www.keystonejs.com/)
