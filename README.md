@@ -68,6 +68,10 @@
 - [Google Cal link creator](https://www.npmjs.com/package/google-calendar-url)
 - [Ellipsis cutoff](https://www.npmjs.com/package/chop-lines)
 
+## Forms
+- [FormSpree](https://formspree.io/)
+- [Jotform](https://www.jotform.com/)
+
 ---
 ## CSS tricks
 **backdrop-filter** add blur/other graphic effects to all elements behind
