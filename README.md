@@ -18,6 +18,7 @@
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)
 - [React Motion Animate](https://www.npmjs.com/package/react-motion-animate) - simple/ua5
 - [React Scroll Parallax](https://www.npmjs.com/package/react-scroll-parallax)
+- [React Just Parallax](https://react-just-parallax.michalzalobny.com/) - lightweight
 - [JS Scroll Position Hook](https://dev.to/n8tb1t/tracking-scroll-position-with-react-hooks-3bbj) - for on scroll animations
 - [Smooth Scrolling Animations](https://github.com/studio-freight/lenis)
 
